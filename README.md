@@ -1,5 +1,6 @@
 ### Hi, This is YongJoon Kang 👋
 
+- 🐱 I’ve graduated from the Department of Information Management, Peking University, China.
 - 🔭 I’ve graduated from Samsung Software Academy For Youth 🏫
 - 🌱 I’m currently learning ML, AI at Programmers AI dev-school
 - ⚡ TMI: I can also speak Chinese, and I love to listen classical music🎵
